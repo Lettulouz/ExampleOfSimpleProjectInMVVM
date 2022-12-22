@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+u8V9LUkxjiIINOieRACldFLDw9XFTxzDDtZvaHGQTRwz16StcY1B+sKWZiQq8a8+eCXdRKl4qD5reKPJbQQiQ==",
+  "success": true,
+  "projectFilePath": "Z:\\Programowanie\\Projekty\\Rider\\ExampleOfSimpleProjectInMVVM\\ExampleOfSimpleProjectInMVVM\\ExampleOfSimpleProjectInMVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dominik\\.nuget\\packages\\handycontrols\\3.4.4\\handycontrols.3.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
